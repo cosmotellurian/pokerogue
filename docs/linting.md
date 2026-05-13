@@ -6,6 +6,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 # Linting & Formatting
 
+
 Writing clean, readable code is important, and linters and formatters are an integral part of ensuring code quality and readability. \
 It is for this reason we are using [Biome](https://biomejs.dev), an opinionated linter/formatter (akin to Prettier) with a heavy focus on speed and performance.
 
